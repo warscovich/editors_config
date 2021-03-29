@@ -33,3 +33,6 @@ very easy to configure.
 
 Sessions need to be configured in the terminal. Coc is also pretty good
 
+### VIM must have plugins
+
+WIP
