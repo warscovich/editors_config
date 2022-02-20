@@ -11,6 +11,7 @@
 * fzf fuzzy search for directory
 * fasd is a must: Helps you to jump everywhere
 * fd is a replace for search is also very useful
+* sshfs is an application to mount folders for a server. Very very convenient.
 
 ### TMUX
 
